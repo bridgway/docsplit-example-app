@@ -1,0 +1,25 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Writer
+InfoBegin
+InfoKey: Producer
+InfoValue: OpenOffice.org 3.0
+InfoBegin
+InfoKey: Author
+InfoValue: Pete Deffendol
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20090108095035-07'00'
+PdfID0: dc7acd9646809c472b36c96e9fe1f73c
+PdfID1: dc7acd9646809c472b36c96e9fe1f73c
+NumberOfPages: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792

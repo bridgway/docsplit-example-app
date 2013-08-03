@@ -11,6 +11,14 @@
 <% @documents.each do |document| %>
   <tr>
     <td><%= document.title %></td>
+
+      <% if document.images.present? %>
+          <% document.images.each do |image| %>
+          <td><%= image_tag "/#{image}" %></td>
+        <% end %>
+       <% end %>
+       
+           
     <td><%= link_to 'Show', document %></td>
     <td><%= link_to 'Edit', edit_document_path(document) %></td>
     <td><%= link_to 'Destroy', document, confirm: 'Are you sure?', method: :delete %></td>
@@ -21,3 +29,4 @@
 <br />
 
 <%= link_to 'New Document', new_document_path %>
+

@@ -1,0 +1,83 @@
+学生 → 指導教員 Student → Project Advisor
+
+商学研究科ビジネス専攻：専門職学位論文計画書
+MBA Degree Thesis Plan
+指導教員／Project Advisor
+
+修了希望年月／
+Graduation date
+
+学籍番号／
+Student I.D. No.
+
+氏名／Name
+
+AIBA, Koji
+
+□ September, 2013
+□ March, 20
+
+35112327-8
+
+RIDGWAY, Ben
+
+論文の主題／
+Main title
+
+The Democratization of Entrepreneurship: and Implications
+
+論文の概要／Summary of Thesis
+
+BACKGROUND
+The practice of entrepreneurship and its underlying theories have undergone considerable
+change in the past decade. Each new wave of technology over the past 50 years has led to a
+new breed of startups in pursuit of innovation. Until recently, the rate of innovation
+experienced by startups was constrained by limitations that we have only just begun to fully
+understand. This understanding, combined with rapid technological developments and other
+forces, is causing a systematic removal of what were once severe barriers to entrepreneurship,
+such as, long development cycles, limited access to seed capital, high costs to first customer.
+The net result of this phenomenon is the “democratization of entrepreneurship”, whereby a
+surge in participants in entrepreneurial activities and the contribution of these activities are
+being felt across the globe.
+
+OBJECTIVES
+In addition to outlining the changing trends in the practice and theory of entrepreneurship
+and the emergence of new knowledge and ecosystems available to today’s entrepreneurs, the
+author would also like to explore some of the likely implications arising from this
+democratization, including its impact on economies, employment, and social and technological
+progress.
+
+1/2
+20000710
+
+FLOW OF THE THESIS
+The entire thesis is consisted of 6 chapters, including the Introduction. In chapter 1, the
+author will outline how the entrepreneurial landscape of most Western economies (especially
+the U.S.) has evolved over the past 50 years, leading up to the turn of the 21 st Century when
+today’s democratizing forces first started to take shape. In Chapter 2, the author will outline
+the causal factors of the democratization of entrepreneurship. Chapter 3 will explore examples
+of how changes in both the theory and practice of entrepreneurship has led to some
+remarkable innovations, with a particular focus on the lean startup movement and agile
+software development methodology as catalysts for change. Chapter 4 will begin to address
+some of the implications of the democratization of entrepreneurship from the standpoint of the
+general economy and employment. Chapter 5 will examine some of the technological and
+social implications of the movement. Finally, Chapter 6 will present the author’s
+recommendations as to how to optimize the opportunities made available by today’s
+entrepreneurial renaissance, with a special health warning on the importance of channeling
+resources and entrepreneurial passion across a variety of economic sectors and regions.
+参考文献リスト／References
+
+Book: The Lean Startup, Eric Ries
+Book: The Four Steps to the Epithany, Steve Blank
+Book: The Owner’s Startup Manual, Steve Blank & Bob Dorf
+Book: Leading Lean Software Development: Results Are Not the Point, Mary and Tom
+Poppendieck
+Technology, innovation and entrepreneurship blogs (e.g. Steve Blank, Seth Levine, Fred
+Wilson etc.)
+Startups, entrepreneurship and technology Press
+US Census Bureau
+
+2/2
+20000710
+
+

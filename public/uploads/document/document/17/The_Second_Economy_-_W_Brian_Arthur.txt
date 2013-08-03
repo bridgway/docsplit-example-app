@@ -1,0 +1,320 @@
+O C T O B E R 2 0 11
+
+The second
+economy
+W. Brian Arthur
+
+Digitization is creating a second economy
+that’s vast, automatic, and invisible—
+thereby bringing the biggest change since
+the Industrial Revolution.
+
+Artwork by Patrick Hruby
+
+In 1850, a decade before the Civil War, the United States’ economy
+was small—it wasn’t much bigger than Italy’s. Forty years later, it was
+the largest economy in the world. What happened in between was
+the railroads. They linked the east of the country to the west, and the
+interior to both. They gave access to the east’s industrial goods;
+they made possible economies of scale; they stimulated steel and
+manufacturing—and the economy was never the same.
+Deep changes like this are not unusual. Every so often—every 60 years
+or so—a body of technology comes along and over several decades,
+quietly, almost unnoticeably, transforms the economy: it brings new social
+classes to the fore and creates a different world for business. Can such
+a transformation—deep and slow and silent—be happening today?
+
+2
+
+We could look for one in the genetic technologies, or in nanotech, but
+their time hasn’t fully come. But I want to argue that something
+deep is going on with information technology, something that goes well
+beyond the use of computers, social media, and commerce on the
+Internet. Business processes that once took place among human beings
+are now being executed electronically. They are taking place in an
+unseen domain that is strictly digital. On the surface, this shift doesn’t
+seem particularly consequential—it’s almost something we take for
+granted. But I believe it is causing a revolution no less important and
+dramatic than that of the railroads. It is quietly creating a second
+economy, a digital one.
+Let me begin with two examples. Twenty years ago, if you went into an
+airport you would walk up to a counter and present paper tickets to
+a human being. That person would register you on a computer, notify the
+flight you’d arrived, and check your luggage in. All this was done by
+humans. Today, you walk into an airport and look for a machine. You
+put in a frequent-flier card or credit card, and it takes just three or
+four seconds to get back a boarding pass, receipt, and luggage tag. What
+interests me is what happens in those three or four seconds. The
+moment the card goes in, you are starting a huge conversation conducted
+entirely among machines. Once your name is recognized, computers
+are checking your flight status with the airlines, your past travel history,
+your name with the TSA1 (and possibly also with the National Security
+Agency). They are checking your seat choice, your frequent-flier status,
+and your access to lounges. This unseen, underground conversation
+is happening among multiple servers talking to other servers, talking
+to satellites that are talking to computers (possibly in London, where
+you’re going), and checking with passport control, with foreign immigration, with ongoing connecting flights. And to make sure the aircraft’s weight distribution is fine, the machines are also starting to adjust
+the passenger count and seating according to whether the fuselage is
+loaded more heavily at the front or back.
+These large and fairly complicated conversations that you’ve triggered
+occur entirely among things remotely talking to other things: servers,
+switches, routers, and other Internet and telecommunications devices,
+updating and shuttling information back and forth. All of this occurs
+in the few seconds it takes to get your boarding pass back. And even after
+that happens, if you could see these conversations as flashing lights,
+1	Transportation Security Administration.
+
+3
+
+they’d still be flashing all over the country for some time, perhaps talking
+to the flight controllers—starting to say that the flight’s getting ready
+for departure and to prepare for that.
+Now consider a second example, from supply chain management.
+Twenty years ago, if you were shipping freight through Rotterdam into
+the center of Europe, people with clipboards would be registering
+arrival, checking manifests, filling out paperwork, and telephoning forward destinations to let other people know. Now such shipments go
+through an RFID2 portal where they are scanned, digitally captured,
+and automatically dispatched. The RFID portal is in conversation
+digitally with the originating shipper, other depots, other suppliers,
+and destinations along the route, all keeping track, keeping control,
+and reconfiguring routing if necessary to optimize things along the
+way. What used to be done by humans is now executed as a series of
+conversations among remotely located servers.
+In both these examples, and all across economies in the developed world,
+processes in the physical economy are being entered into the digital
+economy, where they are “speaking to” other processes in the digital
+economy, in a constant conversation among multiple servers and
+multiple semi-intelligent nodes that are updating things, querying things,
+checking things off, readjusting things, and eventually connecting
+back with processes and humans in the physical economy.
+So we can say that another economy—a second economy—of all of
+these digitized business processes conversing, executing, and triggering
+further actions is silently forming alongside the physical economy.
+
+Aspen root systems
+If I were to look for adjectives to describe this second economy, I’d say
+it is vast, silent, connected, unseen, and autonomous (meaning that
+human beings may design it but are not directly involved in running it).
+It is remotely executing and global, always on, and endlessly configurable. It is concurrent—a great computer expression—which means
+that everything happens in parallel. It is self-configuring, meaning
+it constantly reconfigures itself on the f ly, and increasingly it is also
+self-organizing, self-architecting, and self-healing. 	
+2	Radio-frequency identification.
+
+4
+
+2011 Number 4
+
+These last descriptors sound biological—and they are. In fact, I’m
+beginning to think of this second economy, which is under the surface
+of the physical economy, as a huge interconnected root system, very
+much like the root system for aspen trees. For every acre of aspen trees
+above the ground, there’s about ten miles of roots underneath, all
+interconnected with one another, “communicating” with each other.
+The metaphor isn’t perfect: this emerging second-economy root system
+is more complicated than any aspen system, since it’s also making
+new connections and new configurations on the fly. But the aspen metaphor is useful for capturing the reality that the observable physical
+world of aspen trees hides an unseen underground root system just as
+large or even larger. How large is the unseen second economy? By a
+rough back-of-the-envelope calculation (see sidebar, “How fast is the
+second economy growing?”), in about two decades the digital economy
+will reach the same size as the physical economy. It’s as if there will
+be another American economy anchored off San Francisco (or, more in
+keeping with my metaphor, slipped in underneath the original economy) and growing all the while.
+
+How fast is the second
+economy growing?
+Here’s a very rough estimate. Since
+1995, when digitization really
+started to kick in, labor productivity
+(output per hours worked) in the
+United States has grown at some
+2.5 to 3 percent annually, with
+ups and downs along the way. No
+one knows precisely how much
+of this growth is a result of the uses
+of information technology (some
+economists think that standard measurements underestimate this);
+but pretty good studies assign some
+65 to 100 percent of productivity growth to digitization. Assume,
+then, that in the long term the
+second economy will be responsible
+
+for roughly a 2.4 percent annual
+increase in the productivity of
+the overall economy. If we hold the
+labor force constant, this means
+output grows at this rate, too. An
+economy that grows at 2.4 percent doubles every 30 years; so
+if things continue, in 2025 the
+second economy will be as large
+as the 1995 physical economy.
+The precise figures here can be
+disputed, but that misses the
+point. What’s important is that the
+second economy is not a small
+add-on to the physical economy. In
+two to three decades, it will surpass the physical economy in size.
+
+5
+
+This second, digital economy isn’t
+producing anything tangible.
+It’s not making my bed in a hotel,
+or bringing me orange juice in
+the morning. But it is running an
+awful lot of the economy.
+Now this second, digital economy isn’t producing anything tangible. It’s
+not making my bed in a hotel, or bringing me orange juice in the
+morning. But it is running an awful lot of the economy. It’s helping architects design buildings, it’s tracking sales and inventory, getting goods
+from here to there, executing trades and banking operations, controlling
+manufacturing equipment, making design calculations, billing clients,
+navigating aircraft, helping diagnose patients, and guiding laparoscopic
+surgeries. Such operations grow slowly and take time to form. In any
+deep transformation, industries do not so much adopt the new body of
+technology as encounter it, and as they do so they create new ways to
+profit from its possibilities.
+The deep transformation I am describing is happening not just in the
+United States but in all advanced economies, especially in Europe
+and Japan. And its revolutionary scale can only be grasped if we go
+beyond my aspen metaphor to another analogy.
+
+A neural system for the economy
+Recall that in the digital conversations I was describing, something that
+occurs in the physical economy is sensed by the second economy—
+which then gives back an appropriate response. A truck passes its load
+through an RFID sensor or you check in at the airport, a lot of
+recomputation takes place, and appropriate physical actions are triggered.
+There’s a parallel in this with how biologists think of intelligence. I’m
+not talking about human intelligence or anything that would qualify
+as conscious intelligence. Biologists tell us that an organism is intelligent if it senses something, changes its internal state, and reacts
+appropriately. If you put an E. coli bacterium into an uneven concentration of glucose, it does the appropriate thing by swimming toward
+where the glucose is more concentrated. Biologists would call this intel-
+
+6
+
+ligent behavior. The bacterium senses something, “computes” something (although we may not know exactly how), and returns an appropriate response.
+No brain need be involved. A primitive jellyfish doesn’t have a central
+nervous system or brain. What it has is a kind of neural layer or nerve
+net that lets it sense and react appropriately. I’m arguing that all these
+aspen roots—this vast global digital network that is sensing, “computing,” and reacting appropriately—are starting to constitute a neural
+layer for the economy. The second economy constitutes a neural layer
+for the physical economy. Just what sort of change is this qualitatively?
+Think of it this way. With the coming of the Industrial Revolution—
+roughly from the 1760s, when Watt’s steam engine appeared, through
+around 1850 and beyond—the economy developed a muscular system
+in the form of machine power. Now it is developing a neural system.
+This may sound grandiose, but actually I think the metaphor is valid.
+Around 1990, computers started seriously to talk to each other, and
+all these connections started to happen. The individual machines—
+servers—are like neurons, and the axons and synapses are the communication pathways and linkages that enable them to be in conversation with each other and to take appropriate action.
+Is this the biggest change since the Industrial Revolution? Well, without
+sticking my neck out too much, I believe so. In fact, I think it may
+well be the biggest change ever in the economy. It is a deep qualitative
+change that is bringing intelligent, automatic response to the economy. There’s no upper limit to this, no place where it has to end. Now,
+I’m not interested in science fiction, or predicting the singularity, or
+talking about cyborgs. None of that interests me. What I am saying is
+that it would be easy to underestimate the degree to which this is
+going to make a difference.
+I think that for the rest of this century, barring wars and pestilence, a
+lot of the story will be the building out of this second economy, an
+unseen underground economy that basically is giving us intelligent
+reactions to what we do above the ground. For example, if I’m driving
+in Los Angeles in 15 years’ time, likely it’ll be a driverless car in a flow of
+traffic where my car’s in a conversation with the cars around it that are
+in conversation with general traffic and with my car. The second economy is creating for us—slowly, quietly, and steadily—a different world.
+
+7
+
+A downside
+Of course, as with most changes, there is a downside. I am concerned
+that there is an adverse impact on jobs. Productivity increasing, say,
+at 2.4 percent in a given year means either that the same number of
+people can produce 2.4 percent more output or that we can get the
+same output with 2.4 percent fewer people. Both of these are happening.
+We are getting more output for each person in the economy, but overall output, nationally, requires fewer people to produce it. Nowadays,
+fewer people are required behind the desk of an airline. Much of the
+work is still physical—someone still has to take your luggage and put it
+on the belt—but much has vanished into the digital world of sensing,
+digital communication, and intelligent response.
+Physical jobs are disappearing into the second economy, and I believe
+this effect is dwarfing the much more publicized effect of jobs disappearing to places like India and China.
+There are parallels with what has happened before. In the early 20th
+century, farm jobs became mechanized and there was less need for farm
+labor, and some decades later manufacturing jobs became mechanized
+and there was less need for factory labor. Now business processes—many
+in the service sector—are becoming “mechanized” and fewer people
+are needed, and this is exerting systematic downward pressure on jobs.
+We don’t have paralegals in the numbers we used to. Or draftsmen,
+telephone operators, typists, or bookkeeping people. A lot of that work
+is now done digitally. We do have police and teachers and doctors;
+where there’s a need for human judgment and human interaction, we
+still have that. But the primary cause of all of the downsizing we’ve
+had since the mid-1990s is that a lot of human jobs are disappearing
+into the second economy. Not to reappear.
+Seeing things this way, it’s not surprising we are still working our way
+out of the bad 2008–09 recession with a great deal of joblessness.
+There’s a larger lesson to be drawn from this. The second economy will
+certainly be the engine of growth and the provider of prosperity for
+the rest of this century and beyond, but it may not provide jobs, so there
+may be prosperity without full access for many. This suggests to me
+that the main challenge of the economy is shifting from producing prosperity to distributing prosperity. The second economy will produce
+
+8
+
+wealth no matter what we do; distributing that wealth has become the
+main problem. For centuries, wealth has traditionally been apportioned in the West through jobs, and jobs have always been forthcoming.
+When farm jobs disappeared, we still had manufacturing jobs, and
+when these disappeared we migrated to service jobs. With this digital
+transformation, this last repository of jobs is shrinking—fewer of us
+in the future may have white-collar business process jobs—and we face
+a problem.
+The system will adjust of course, though I can’t yet say exactly how.
+Perhaps some new part of the economy will come forward and generate
+a whole new set of jobs. Perhaps we will have short workweeks and
+long vacations so there will be more jobs to go around. Perhaps we will
+have to subsidize job creation. Perhaps the very idea of a job and of
+being productive will change over the next two or three decades. The
+problem is by no means insoluble. The good news is that if we do solve
+it, we may at last have the freedom to invest our energies in creative acts.
+
+Economic possibilities for our
+grandchildren
+In 1930, Keynes wrote a famous essay, “Economic possibilities for our
+grandchildren.” Reading it now, in the era of those grandchildren, I am
+surprised just how accurate it is. Keynes predicts that “the standard
+of life in progressive countries one hundred years hence will be between
+four and eight times as high as it is to-day.” He rightly warns of “technological unemployment,” but dares to surmise that “the economic problem [of producing enough goods] may be solved.” If we had asked him
+and his contemporaries how all this might come about, they might have
+imagined lots of factories with lots of machines, possibly even with
+robots, with the workers in these factories gradually being replaced by
+machines and by individual robots.
+That is not quite how things have developed. We do have sophisticated
+machines, but in the place of personal automation (robots) we have
+a collective automation. Underneath the physical economy, with its
+physical people and physical tasks, lies a second economy that is
+automatic and neurally intelligent, with no upper limit to its buildout.
+The prosperity we enjoy and the difficulties with jobs would not
+have surprised Keynes, but the means of achieving that prosperity
+would have.
+
+9
+
+This second economy that is silently forming—vast, interconnected,
+and extraordinarily productive—is creating for us a new economic
+world. How we will fare in this world, how we will adapt to it, how we
+will profit from it and share its benefits, is very much up to us.
+W. Brian Arthur is a visiting researcher with the Intelligent Systems
+Lab at the Palo Alto Research Center (PARC) and an external professor
+at the Santa Fe Institute. He is an economist and technology thinker
+and a pioneer in the science of complexity. His 1994 book, Increasing
+Returns and Path Dependence in the Economy (University of Michigan
+Press, December 1994), contains several of his seminal papers. More
+recently, Arthur was the author of The Nature of Technology: What It
+Is and How It Evolves (Free Press, August 2009).
+
+Copyright © 2011 McKinsey & Company. All rights reserved.
+We welcome your comments on this article. Please send them to
+quarterly_comments@mckinsey.com.
+
+

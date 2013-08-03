@@ -1,0 +1,25 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: pdfsam-console (Ver. 2.4.1e)
+InfoBegin
+InfoKey: Producer
+InfoValue: iText 2.1.7 by 1T3XT
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20130723165626+09'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20130723165626+09'00'
+PdfID0: d022bdda30ac8496f839c3ab8f4df3fc
+PdfID1: 24ac7288725b8f3268517e1b5171224b
+NumberOfPages: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8

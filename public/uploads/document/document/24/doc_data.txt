@@ -1,0 +1,31 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Word
+InfoBegin
+InfoKey: Title
+InfoValue: Microsoft Word - Ben Ridgway Resume 2013.doc
+InfoBegin
+InfoKey: Producer
+InfoValue: Mac OS X 10.8.3 Quartz PDFContext
+InfoBegin
+InfoKey: Author
+InfoValue: Ben Ridgway
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20130713090040Z00'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20130713090040Z00'00'
+PdfID0: cc9733254cb80fbab4a783caa0d1774c
+PdfID1: cc9733254cb80fbab4a783caa0d1774c
+NumberOfPages: 2
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89

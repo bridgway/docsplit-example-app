@@ -1,0 +1,60 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe InDesign CS4 (6.0)
+InfoBegin
+InfoKey: Producer
+InfoValue: Adobe PDF Library 9.0
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20110927122220-05'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20110926121701-05'00'
+PdfID0: 0a129d27d2d2024fa5a1336187fd7fdb
+PdfID1: ae9e1d8231e1d048b3f055503b8ed7f9
+NumberOfPages: 9
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 468 774
+PageMediaDimensions: 468 774

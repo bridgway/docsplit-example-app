@@ -1,0 +1,50 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: Sejda (Ver. 1.0.0.M6-SNAPSHOT)
+InfoBegin
+InfoKey: Producer
+InfoValue: iText 2.1.7 by 1T3XT
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20130427134455+01'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20130427123623Z
+PdfID0: 6d58045d61cf9e30f4e319aabe5de403
+PdfID1: 44fb4f1a068d477fabe61910cd1b7667
+NumberOfPages: 7
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 270
+PageMediaRect: 0 0 841.92 595.2
+PageMediaDimensions: 841.92 595.2
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.44
+PageMediaDimensions: 595.2 841.44
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 612.06 1008
+PageMediaDimensions: 612.06 1008
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.2 841.8
+PageMediaDimensions: 595.2 841.8

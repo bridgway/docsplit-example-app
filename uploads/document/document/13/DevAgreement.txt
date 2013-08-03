@@ -1,0 +1,416 @@
+Developer Agreement
+Date: 21 June 2013
+Parties
+1. ‘Bobop’: Ben Gibbs trading as Bobop, whose registered
+office is at 12 Boscombe Street, Moss Side, Manchester, M14 7PG
+2. ‘the Customer’: [_______________________________] (registered
+[___________________________])
+whose registered office is at
+[____________________________________________________________]
+
+Operative Provisions:
+1. The terms and conditions set out in Part 2 shall form part of this Agreement and all terms are defined in
+the terms and conditions.
+2. In consideration of the payment by the Customer of the Development Fees Bobop agrees to provide the
+Software design and development services upon the terms and conditions of this Agreement;
+3. This Agreement shall commence on the date hereof and shall continue unless or until terminated by either
+party in accordance with the terms and conditions.
+4. On payment in full of the Development Fees, Bobop:
+a. grants to the Customer (and to any third party hosting the Software) a non-exclusive, []
+unrestricted non-transferrable right to use the sections of the Software which were created prior to
+this agreement, and;
+b. transfers all transferable rights (including but not limited to copyright and database rights) to the
+Customer in all new code written under this agreement.
+5. The Customer agrees to grant to Bobop a non-exclusive unrestricted licence to use the new code written
+under this agreement on future projects, provided the projects are not marketed to the _________ industry
+as ________.
+
+6. The construction validity and performance of this Agreement shall be governed by the laws of England.
+
+Signature:
+
+Signature:
+
+Signed by: Ben Gibbs
+
+Signed by:
+
+[print name]
+
+[print name]
+
+Position: Owner
+
+Position:
+
+duly authorised and on behalf of Bobop
+
+duly authorised for and on behalf of the
+Customer
+
+Part 1
+1 Web site domain name
+The website will operate at [________________________________]
+2 Fees
+2.1 Development Fee
+Development fees will be charged at the end of each calendar month in which work has been conducted.
+The amounts incurred will be agreed upon prior to the work being commenced at the start of each calendar
+month, subject to Change Requests.
+2.2 Support Fees
+Free “One working day” response support for the Software as per the warranty as described in section 9 of
+this agreement and any additional support fees both parties shall agree upon from time to time.
+3 Notices
+To Bobop: email ben@bobop.co.uk
+To the Customer: email [____________________________________________________]
+
+Part 2
+Terms and Conditions
+1 Definitions
+1.1 In the Agreement unless the context otherwise requires:
+
+‘Confidential Information’
+
+shall include, but not necessarily be limited to, all information
+which is not publicly known including the business, finances,
+technology (including without limitation the Software and the
+Documentation) trade secrets, and any other commercially
+sensitive information of either party regardless of its nature;
+
+‘Change Request’
+
+a request for a change made by the Customer or
+Bobop;
+
+‘Development Fees’
+
+the sums specified as development fees in Part 1
+
+‘Fees’
+
+the Development Fees and (where Bobop is to
+provide Support Services) the Support Fees
+
+‘Intellectual Property Rights’
+
+all copyright and other intellectual property rights,
+howsoever arising and in whatever media, whether or
+not registered, including (without limitation) patents,
+trademarks, database rights, service marks, trade names,
+registered design and any applications for the protection or
+registration of these rights and all renewals and
+extensions thereof throughout the world;
+
+‘Software’
+
+the software being developed or customised by
+Bobop to the Specification and all upgrades, enhancements,
+variations and fixes to the software, but excluding third
+party software;
+
+‘Specification’
+
+means the specification for the Software determined in
+accordance with clause 2 and the Schedule and the
+timescale for the creation or customisation of the Software;
+
+‘Support Services’
+
+those services specified in the Schedule;
+
+‘Support Fees’
+
+any sums specified as support fees in Part 1
+
+‘Website’
+
+the website known under the domain name set out in
+Part 1 and such other additional sites and domain
+names as the parties shall agree upon from time to
+time.
+
+2 Web Site development
+2.1 Bobop agrees to design and develop the Software in accordance with the Specification. The Specification
+shall be drawn up by Bobop in accordance with the procedure specified in the Schedule hereto.
+2.2 The Customer must provide to Bobop in timely and suitable manner such information (“Information”) as
+may be reasonably necessary to enable Bobop to complete the Software in accordance with the
+Specification, provided that the Customer shall not supply any Information which infringes the Intellectual
+Property Rights of a third party or is fraudulent, offensive, abusive, defamatory, obscene or menacing or
+causes annoyance, inconvenience or needless anxiety or constitutes unsolicited advertising or promotional
+material.
+2.3 Bobop shall convert the Information into a display-ready format for the Software, as is appropriate to the
+nature of that Information. If the Information is not in a suitable digital format an additional charge will be
+made for its conversion by Bobop.
+2.4 On the understanding that the during the course of development of the Software, commercially
+advantageous features will be created, Bobop agrees for a period of 2 years following completion or
+termination of this Agreement, to not create or work on projects which are marketed to or intended to be
+marketed to the Customer’s specific niche audience. For the avoidance of doubt, the term ‘marketed’
+includes specific references on the service website or promotional documentation to niche audience specific
+roles to be defined in a further schedule.
+3 Website acceptance
+3.1 Upon completion of the Software, Bobop shall make the Web Site available for access by the Customer
+on a test server. the Customer shall arrange for the performance of a test on the Software and the Web Site
+within seven (7) days of notification of the test server address in order to determine whether it conforms to
+the Specification.
+3.1.1 Where no amendments are communicated to Bobop by the Customer within the seven (7) day
+period the Customer shall be deemed to have accepted the Software and Web Site.
+3.1.2 Where amendments are communicated to Bobop by the Customer within the seven (7) day
+period Bobop shall as soon as possible notify the Customer if it considers any matters notified by the
+Customer to be outside of the Specification. If it does so notify the Customer the parties shall
+proceed in accordance with clause 5 below and the provisions of this clause 3.1 shall apply to any
+agreed changes. In all other circumstances acceptance shall be deemed to have occurred once
+matters notified by the Customer that are within the Specification have been corrected by Bobop.
+
+3.2 Upon acceptance of the Software, Bobop will subject to clause 6.1 deliver the Web Site to the third party
+host nominated by the Customer.
+3.2.1 Bobop shall, at the Customer’s expense, co-operate with the Host in the installation of the
+Software and ensure that the Web Site complies with the third party host’s reasonable technical and
+functional requirements for hosting the Web Site.
+4 Representatives and personnel
+4.1 Each party shall communicate to the other upon the date hereof the identity of the person(s) or the
+department within its undertaking who shall act as the sole contact point and channel of communication for
+the provision by Bobop of the Services during the currency of the Agreement. Each party shall forthwith
+inform the other of any change in the identity of any such person(s).
+4.2 Bobop shall ensure that all of its personnel engaged hereunder:
+4.2.1 have the necessary skills, expertise and diligence to undertake such work and will conform to
+the professional standards generally observed in the computer industry for similar services;
+4.2.2 comply with the provisions in this Agreement relating to Confidential Information.
+4.3 The Customer shall:
+4.3.1 ensure that its employees and other independent contractors co-operate reasonably with
+Bobop and its employees in carrying out its obligation hereunder and promptly furnish Bobop with
+such information and documents as it may reasonably request for the proper performance of its
+obligations under this Agreement; and
+4.3.2 ensure that its representative appointed pursuant to clause 4.1 is available as reasonably
+required by Bobop.
+5 Change control
+5.1 If either party identifies a requirement for a change, a Change Request will be sent to the other party
+detailing the change requirements. If sent by Bobop, the Change Request shall state the effect such a
+change shall have on the Software, the Specification, any agreed timetable and the Price. If sent by the
+Customer, the receipt of the Change Request by Bobop will constitute a request to Bobop to state in writing
+the effect such a change shall have on the Software, the Specification, any agreed timetable and the Price.
+Bobop shall use all reasonable endeavours to supply the necessary details within 10 working days from
+receipt of the Change Request or such other period as may be agreed.
+
+5.2 The parties will then decide whether or not to implement the change. If the change is implemented, the
+amended Software, Specification, any agreed timetable or Price shall then become the Software,
+Specification, any agreed timetable and Price for the purpose of this Agreement.
+5.3 Bobop shall not implement any changes unless instructed to do so by the Customer’s representative.
+6 Other Services
+6.1 If the Customer requires Bobop to host the Website it shall execute Bobop’s then current hosting
+agreement and return the same to Bobop. Provided that the Customer has paid all Fees promptly Bobop
+shall provide the hosting services to the Customer in accordance with the terms of its then current hosting
+agreement.
+6.2 Bobop shall if requested by the Customer and in consideration of the Customer paying Support Fees
+provide the Customer with the Support Services. The Customer shall be entitled to serve notice upon Bobop
+at any time informing Bobop that it no longer requires Bobop to provide the Support Services, any such
+notice to expire on the last day of the period for which the Support Fees have been paid (or should have
+been paid).
+7 Fees
+7.1 The Fees (together with value added tax thereon) shall be levied by Bobop as set out in Part 1 and shall
+be payable by the Customer within 7 days of receipt of Bobop’s invoice therefor which invoices shall be
+raised as specified in Part 1.
+7.2 Bobop reserves the right to charge the Customer interest in respect of the late payment of any sum due
+under the Agreement (as well after as before judgment) at the rate of 8 per cent per annum above the base
+rate from time to time of The Co-operative Bank plc from the due date therefor until payment.
+8 Property and confidentiality
+8.1 The transferable Intellectual Property Rights in the new Software under this agreement (including the
+source and object code) shall be transferred to the Customer. On payment in full of the Development Fees,
+Bobop shall provide to Customer an electronic copy of the source code. Where the Software incorporates
+code which was not written under this agreement, Bobop may provide the functional elements of that code
+so as to keep the source code functional.
+8.2 Bobop will indemnify the Customer on demand against all costs, claims, demands, expenses and
+liabilities of whatsoever nature arising out of or in connection with any claim that the use or possession of
+
+the Software infringes the intellectual property rights of any third party subject to the following conditions:
+8.2.1 the Customer shall promptly notify Bobop in writing of any allegations of infringement of which
+it is aware and shall not make any admissions without Bobop’s prior written consent;
+8.2.2 the Customer, at Bobop’s request and expense, shall allow Bobop to conduct and/or settle all
+negotiations and litigation resulting from any such claim subject to Bobop taking over such conduct
+within ten working days after being notified of the claim and providing that Bobop diligently pursues
+the settlement of any such claim; and
+8.2.3 the Customer shall, at the request of Bobop, afford all reasonable assistance with such
+negotiations or litigation, and shall be reimbursed by Bobop on demand for all expenses incurred in
+doing so.
+8.3 If the Customer’s use or possession of the Software or any part thereof in accordance with this
+Agreement, is held by a court of competent jurisdiction to constitute an infringement of a third party’s
+intellectual property rights, then Bobop shall promptly and at its own expense:
+8.3.1 procure for the Customer the right to continue using and possessing the Software or the
+infringing part; or
+8.3.2 modify or replace the Software (or part thereof) without detracting from the overall
+performance of the Software, so as to avoid the infringement.
+8.4 Both during this Agreement and after its termination, the parties shall treat as confidential (and shall
+procure that its personnel and each of them treat as confidential) and shall not (and shall procure that their
+personnel and each of them does not) (other than in the proper provision of the services required pursuant
+to the Agreement) use or disclose to any person, firm or company, any Confidential Information belonging to
+the other party or its clients, suppliers or the Customers, nor permit its use or disclosure.
+8.5 The Customer shall inform all relevant employees agents and sub-contractors that all intellectual
+property rights in the software forming the Web Site are the property of Bobop and the Customer shall take
+all such steps as shall be necessary to ensure compliance by its employees agents and sub-contractors with
+the provisions of this clause 8.
+8.6 The provisions of this clause shall survive the termination of this Agreement but the restrictions
+contained in clause 8.4 shall cease to apply to any information which may come into the public domain
+otherwise than through unauthorised disclosure.
+8.7 Nothing in this clause 8 shall prevent Bobop from exploiting any inventions or software that it develops
+
+during the course of this Agreement.
+9 Warranty
+9.1 Subject to the limitations upon its liability in clause 10 below Bobop warrants that:
+9.1.1 that it has the right power and authority to license to the Customer the parts of the Software
+created prior to this agreement, including any third party software used by Bobop to complete the
+Specification upon the terms and conditions of the Agreement;
+9.1.2 the Software will for a period of 180 days from the acceptance date (as determined in
+accordance with clause 3.1.2) conform to the Specification; and
+9.1.3 it will perform the Services with reasonable care and skill.
+9.2 The Customer shall give notice to Bobop as soon as it is reasonably able upon becoming aware of a
+breach of warranty.
+9.3 Bobop shall remedy promptly any breach of the warranties set out in this clause 9 as soon as reasonably
+practicable free of charge.
+9.4 Without prejudice to the foregoing Bobop does not warrant that the Use of the Software or any third
+party software will be uninterrupted or error free and Bobop shall not be liable under this clause 9 if a failure
+to meet the warranties set out therein is caused by:
+9.4.1 software other than the Software running on the equipment hosting the Website; or
+9.4.2 modifications or customisations made by or on behalf of the Customer to the Software without
+the authorisation of Bobop.
+9.5 Subject to the foregoing all conditions warranties terms and undertakings express or implied statutory or
+otherwise in respect of the Web Site and the provision of the Services are hereby excluded to the fullest
+extent permitted by law.
+10 Limitation of liability
+10.1 The following provisions set out Bobop’s entire liability (including any liability for the acts and omissions
+of its employees agents and sub-contractors) to the Customer in respect of:
+10.1.1 any breach of its contractual obligations arising under the Agreement; and
+
+10.1.2 any representation statement or tortious act or omission including negligence arising under or
+in connection with the Agreement
+AND THE CUSTOMER'S ATTENTION IS IN PARTICULAR DRAWN TO THE PROVISIONS OF THIS CLAUSE 10.
+10.2 Any act or omission on the part of Bobop or its employees agents or sub-contractors falling within
+clause 10.1 above shall for the purposes of this clause 10 be known as an ‘Event of Default'.
+10.3 Bobop's liability to the Customer for death or injury resulting from its own or its employees' agents' or
+sub-contractors' negligence shall not be limited.
+10.4 Subject to the limits set out in clause 10.5.1 below Bobop shall accept liability to the Customer in
+respect of damage to the tangible property of the Customer resulting from the negligence of Bobop or its
+employees agents or sub-contractors.
+10.5 Subject to the provisions of clause 10.3 above Bobop's entire liability in respect of any Event of Default
+shall be limited to damages of an amount equal to:
+10.5.1 £50,000 in the case of an Event of Default falling within clause 10.4 above; and
+10.5.2 in the case of any other Event of Default the aggregate of the Development Fee and where
+applicable the Hosting fee paid in the immediately preceding period of 12 months.
+10.6 Subject to clause 10.3 above Bobop shall not be liable to the Customer in respect of any Event of
+Default for loss of profits goodwill or any type of special indirect or consequential loss (including loss or
+damage suffered by the Customer as a result of an action brought by a third party) even if such loss was
+reasonably foreseeable or Bobop had been advised of the possibility of the Customer incurring the same.
+10.7 If a number of Events of Default give rise substantially to the same loss then they shall be regarded as
+giving rise to only one claim under the Agreement.
+10.8 the Customer hereby agrees to afford Bobop not less than 28 days (following notification thereof by the
+Customer) in which to remedy any Event of Default hereunder.
+10.9 Except in the case of an Event of Default arising under clause 10.3 above Bobop shall have no liability
+to the Customer in respect of any Event of Default unless the Customer shall have served notice of the same
+upon Bobop within 1 year of the date it became aware of the circumstances giving rise to the Event of
+Default or the date when it ought reasonably to have become so aware.
+
+10.10 Nothing in this clause shall confer any right or remedy upon the Customer to which it would not
+otherwise be legally entitled.
+11 Indemnity
+11.1 The Customer shall be liable for and will indemnify Bobop against any and all liability, loss, damages,
+legal costs, professional and other expenses of any nature whatsoever incurred or suffered by Bobop arising
+out of any dispute or contractual tortious or other claims or proceedings brought against Bobop as a result
+of any claim by any third party that any of the Customer’s domain names, any changes to the Specification,
+Software or the Web Site requested by the Customer, or any of the Information infringes the Intellectual
+Property Right of a third party or is fraudulent, offensive, abusive, defamatory, obscene or menacing or
+causes annoyance, inconvenience or needless anxiety or constitutes unsolicited advertising or promotional
+material except insofar as any such claims may arise from any breach of the Agreement by Bobop.
+11.2 Bobop will indemnify and hold harmless the Customer against any damages (including costs) that may
+be awarded or agreed to be paid to any third party in respect of any claim or action that the normal
+operation hosting or use of the Web Site infringes the patent copyright registered design or trade mark
+rights of a third party (an `Intellectual Property Infringement') provided that the Customer:
+11.2.1 gives notice to Bobop of any Intellectual Property Infringement forthwith upon becoming
+aware of the same;
+11.2.2 gives Bobop the sole conduct of the defence to any claim or action in respect of an
+Intellectual Property Infringement and does not at any time admit liability or otherwise settle or
+compromise or attempt to settle or compromise the said claim or action except upon the express
+instructions of Bobop; and
+11.2.3 acts in accordance with the reasonable instructions of Bobop and gives to Bobop such
+assistance as it shall reasonably require in respect of the conduct of the said defence including
+without prejudice to the generality of the foregoing the filing of all pleadings and other court process
+and the provision of all relevant documents.
+11.3 Bobop shall reimburse the Customer its reasonable costs incurred in complying with the provisions of
+clause 11.2 above.
+11.4 Bobop shall have no liability to the Customer in respect of an Intellectual Property Infringement if the
+same results from any breach of the Customer's obligations under the Agreement.
+11.5 In the event of an Intellectual Property Infringement Bobop shall be entitled at its own expense and
+option either to:
+
+11.5.1 procure the right for the Customer to continue using the Software; or
+11.5.2 make such alterations modifications or adjustments to the Software so that it becomes noninfringing.
+11.6 If Bobop in its reasonable judgement is not able to exercise any of the options set out at clauses 11.5.1
+or 11.5.2 above within 28 days of the date it received notice of the Intellectual Property Infringement then
+the Customer without prejudice to any other rights or remedies it may have hereunder or at law shall be
+entitled to terminate the Agreement by 28 days' notice upon Bobop.
+11.7 The provisions of clause 10 above shall not apply to this clause 11.
+12 Termination
+12.1 Either party may terminate the Agreement without prejudice to its other remedies forthwith by notice in
+writing to the other if that other either:
+12.1.1 commits a breach of the Agreement (which shall include any failure to make any payment on
+the due date therefor); provided that if the breach is capable of remedy the notice shall only be
+given if the party in breach shall not have remedied the same within 30 days of having been given
+notice in writing specifying the breach and requiring it to be remedied; or
+12.1.2 is unable to pay its debts or enters into compulsory or voluntary liquidation (other than for
+the purpose of effecting a reconstruction or amalgamation in such manner that the company
+resulting from such reconciliation or amalgamation if different legal entity shall agree to be bound by
+and assume the obligations of the relevant party under the Agreement) or compounds with or
+convenes a meeting of its creditors or has a receiver or manager or an administrative receiver or any
+administrator appointed over any of its assets or ceases for any reason to carry on business or takes
+or suffers any similar action which in the opinion of the party giving notice means that the other may
+be unable to pay its debts.
+12.2 The Customer shall be entitled to terminate the licence granted to it pursuant to the Agreement upon
+giving written notice to Bobop.
+12.3 Termination of the Agreement for whatever reason shall not affect the accrued rights of the parties
+arising in any way out of the Agreement as at the date of termination and in particular but without limitation
+the right to recover damages from the other.
+12.4 All provisions of the Agreement which in order to give effect to their meaning need to survive its
+
+termination shall remain in full force and effect thereafter.
+13 Force majeure
+13.1 Bobop shall not be in breach of the Agreement if there is any total or partial failure of performance by it
+of its duties and obligations under the Agreement occasioned by any cause beyond its control. If Bobop is
+unable to perform its duties and obligations under the Agreement as a direct result of the effect of any such
+cause it shall give written notice to the Customer of such inability stating the cause in question and the date
+on which such cause commenced. The operation of the Agreement shall be suspended during the period
+(and only during the period) in which the cause continues to have effect. Forthwith upon the cause ceasing
+to have effect Bobop shall give written notice thereof to the Customer. If the cause continues to have effect
+for a period of more than 60 days the Customer shall have the right to terminate the Agreement upon giving
+30 days written notice of such termination to Bobop, but such notice shall not take effect if Bobop gives
+notice within that period that the cause has ceased to prevent the operation of the Agreement and forthwith
+upon such cessation recommences the full and punctual performance of its obligations hereunder.
+14 General provisions
+14.1 The waiver by either party of a breach or default of any of the provisions of the Agreement by the other
+party shall not be construed as a waiver of any succeeding breach of the same or other provisions nor shall
+any delay or omission on the part of either party to exercise or avail itself of any right power or privilege that
+it has or may have hereunder operate as a waiver of any breach or default by the other party.
+14.2 Any notice request instruction or other document to be given hereunder shall be delivered or sent by
+first class post, email or by facsimile transmission (such email or facsimile transmission notice to be
+confirmed by letter posted within 12 hours) to the address or to the facsimile number of the other party as
+set out in Part 1 (or such other address or numbers as may have been notified) and any such notice or other
+document shall be deemed to have been served (if delivered) at the time of delivery (if sent by post) upon
+the expiration of 48 hours after posting and (if sent by facsimile transmission) upon the expiration of 12
+hours after dispatch.
+14.3 If any provision of the Agreement shall be found by any court or administrative body of competent
+jurisdiction to be invalid or unenforceable the invalidity or unenforceability of such provision shall not affect
+the other provisions of the Agreement and all provisions not affected by such invalidity or unenforceability
+shall remain in full force and effect. The parties hereby agree to attempt to substitute for any invalid or
+unenforceable provision a valid or enforceable provision which achieves to the greatest extent possible the
+economic legal and commercial objectives of the invalid or unenforceable provision.
+14.4 Bobop shall not be liable to the Customer for loss arising from or in connection with any representations
+agreements statements or undertakings made prior to the date of execution of the Agreement other than
+
+those representations agreements statements and undertakings made fraudulently or confirmed by a duly
+authorised representative of Bobop in writing or expressly incorporated or referred to in the Agreement.
+14.5 The Agreement shall be binding upon and ensure for the benefit of the successors in title of the parties
+hereto. Bobop shall be entitled to sub-contract all or any part of its services to be provided pursuant to the
+Agreement.
+14.6 Headings to clauses in the Agreement are for the purpose of information and identification only and
+shall not be construed as forming part of the Agreement.
+14.7 The Agreement shall not be amended, modified, varied or supplemented except in writing signed by a
+director of Bobop and a duly authorised representative of the Customer.
+14.8 Bobop reserves the right to refer to its work under this Agreement in Bobop’s sales literature, press
+releases, web site or other sales materials
+
+

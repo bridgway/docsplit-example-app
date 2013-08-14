@@ -22,14 +22,46 @@ class DocumentsController < ApplicationController
     end
   end
 
+  def bible_create
+    @srclist = params[:paths]
+    @pdf_file_paths = []
+    @srclist.each do |p| 
+        p["png"]= "pdf"
+        p.insert(0, "public")
+        @pdf_file_paths << p
+      end
+
+      @pdf_output_path = "public/" + rand.to_s + ".pdf"
+
+
+    Prawn::Document.generate(@pdf_output_path, {:page_size => 'A4', :skip_page_creation => true}) do |pdf| # check to see if we can put in variable or same directory as other files
+    @pdf_file_paths.each do |pdf_file|
+      if File.exists?(pdf_file)
+            pdf_temp_nb_pages = Prawn::Document.new(:template => pdf_file).page_count
+            (1..pdf_temp_nb_pages).each do |i|
+              pdf.start_new_page(:template => pdf_file, :template_page => i)
+          end
+        end
+      end
+    end
+    
+    respond_to do |format|
+      #format.html # new.html.erb
+      #format.json { render json: @document }
+      format.js  #{ redirect_to documents_path } #{ render nothing: true }
+    end
+  end
+
   # GET /documents/new
   # GET /documents/new.json
   def new
     @document = Document.new
+    #@srclist = params[:paths]
     
     respond_to do |format|
       format.html # new.html.erb
       format.json { render json: @document }
+      format.js 
     end
   end
 

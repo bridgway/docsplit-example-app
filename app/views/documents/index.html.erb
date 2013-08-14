@@ -1,4 +1,45 @@
+<style>
+  #draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+  #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+</style>
+
+<script type="text/javascript">
+  $(function() {
+
+    var srcList = [];
+
+    $( ".draggable" ).draggable();
+    $( "#droppable" ).droppable({
+      drop: function( event, ui ) {
+        srcList.push(ui.draggable.attr("src"));
+        //var id = ui.draggable.find("img").attr("src");
+        //var droppableId = $(this).attr("id");
+        $( this )
+          .addClass( "ui-state-highlight" )
+          .find( "p" )
+            .html( "Dropped!" + srcList );
+            //.appendTo( this ); somehow need to record the images when dropped?
+      }
+    });
+
+
+      $("#biblebutton").click(function() {
+        $.ajax({
+          type: "POST",
+          url: "documents/bible_create",
+          data: { paths: srcList }
+        }) .done(function( msg ) {
+              alert( "Data Saved: " + msg );
+        });
+      }); 
+    
+
+  });
+</script>
+
+
 <h1>Listing documents</h1>
+
 
 <table>
   <tr>
@@ -9,12 +50,12 @@
   </tr>
 
 <% @documents.each do |document| %>
-  <tr>
+  <%= content_tag_for :tr, document do %>
     <td><%= document.title %></td>
 
       <% if document.images.present? %>
           <% document.images.each do |image| %>
-          <td><%= image_tag "/#{image}" %></td>
+          <td><%= image_tag("/#{image}", size: "100x100", class: "draggable" ) %></td>
         <% end %>
        <% end %>
        
@@ -22,11 +63,36 @@
     <td><%= link_to 'Show', document %></td>
     <td><%= link_to 'Edit', edit_document_path(document) %></td>
     <td><%= link_to 'Destroy', document, confirm: 'Are you sure?', method: :delete %></td>
-  </tr>
+  <% end %>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New Document', new_document_path %>
+<%= link_to 'New Document', new_document_path %></br>
+
+
+<div id="droppable" class="ui-widget-header">
+  <p>Drop here</p>
+</div>
+
+<button id="biblebutton">Bible Create2</button>
+
+</br>
+</br>
+</br>
+</br>
+
+
+<div>
+ <p id="output">SRC list: </P>
+</div>
+
+<p id="pdf_link">PDF Link:</P>
+
+<p id="pdf_path">PDF Path:</P>
+
+<a href="#" id="download_link">Download now!</a>
+
+
 

@@ -6,6 +6,7 @@ gem 'jquery-rails', '2.0.2'
 gem 'docsplit'
 gem 'carrierwave'
 gem 'prawn'
+gem 'jquery-ui-rails'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

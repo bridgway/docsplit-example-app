@@ -1,5 +1,15 @@
 DocsplitApp::Application.routes.draw do
-  resources :documents
+  resources :comments
+
+
+  resources :documents do
+    member do
+     # post :bible_create
+    end
+  end
+
+  match 'documents/bible_create',   to: 'documents#bible_create', via: :post
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
